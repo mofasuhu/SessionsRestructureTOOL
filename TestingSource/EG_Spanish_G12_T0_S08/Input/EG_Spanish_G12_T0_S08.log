@@ -1,0 +1,3882 @@
+This is LuaTeX, Version 1.07.0 (MiKTeX 2.9.6700)  (format=lualatex 2023.4.12)  15 SEP 2023 22:46
+ restricted system commands enabled.
+**EG_Spanish_G12_T0_S08.tex
+(./EG_Spanish_G12_T0_S08.tex
+LaTeX2e <2018-04-01> patch level 4
+Lua module: luaotfload-main 2017/01/29 2.80001 OpenType layout system.
+Lua module: lualibs 2017-02-01 2.5 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2017-02-01 2.5 ConTeXt Lua libraries -- extended co
+llection.(using cache: D:/Progs/TeX/mikTeX/texmfs/data/luatex-cache/generic)
+luaotfload | conf : Root cache directory is D:/Progs/TeX/mikTeX/texmfs/data/luat
+ex-cache/generic/names.
+luaotfload | init : Loading fontloader “fontloader-2017-02-11.lua” from kpse
+-resolved path “D:/Progs/TeX/mikTeX/texmfs/install/tex/luatex/luaotfload/fontl
+oader-2017-02-11.lua”.
+Lua-only attribute luaotfload@state = 1
+Lua-only attribute luaotfload@noligature = 2
+Lua-only attribute luaotfload@syllabe = 3
+luaotfload | init : Context OpenType loader version “3.027”
+Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
+Inserting `luaotfload.define_font' at position 1 in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 4
+luaotfload | conf : Root cache directory is D:/Progs/TeX/mikTeX/texmfs/data/luat
+ex-cache/generic/names.
+Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
+font'.
+Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
+_font'.
+Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
+t_unsafe'.
+Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
+'.
+Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
+.
+luaotfload | main : initialization completed in 0.511 seconds
+Babel <3.20> and hyphenation patterns for 1 language(s) loaded.
+(./nagwa.cls
+Document Class: nagwa 2016/08/08
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX detected.
+))))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count80
+\calc@Bcount=\count81
+\calc@Adimen=\dimen102
+\calc@Bdimen=\dimen103
+\calc@Askip=\skip41
+\calc@Bskip=\skip42
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count82
+\calc@Cskip=\skip43
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: luatex.def on input line 225.
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/graphics-def/luatex.def
+File: luatex.def 2018/01/08 v1.0l Graphics/color driver for luatex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: luatex.def on input line 99.
+)
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+\AM@pagewidth=\dimen106
+\AM@pageheight=\dimen107
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/pdfpages/ppluatex.def
+File: ppluatex.def 2017/10/31 v0.5l Pdfpages driver for LuaTeX (AM)
+)
+\AM@pagebox=\box26
+\AM@global@opts=\toks15
+\AM@toc@title=\toks16
+\c@AM@survey=\count83
+\AM@templatesizebox=\box27
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/pgf/frontendlayer/tikz.sty
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/pgf/basiclayer/pgf.sty
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/pgf/utilities/pgfrcs.sty
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks17
+\pgfutil@tempdima=\dimen108
+\pgfutil@tempdimb=\dimen109
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box28
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/pgf/basiclayer/pgfcore.sty
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/pgf/systemlayer/pgfsys.sty
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks18
+\pgfkeys@temptoks=\toks19
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks20
+))
+\pgf@x=\dimen110
+\pgf@y=\dimen111
+\pgf@xa=\dimen112
+\pgf@ya=\dimen113
+\pgf@xb=\dimen114
+\pgf@yb=\dimen115
+\pgf@xc=\dimen116
+\pgf@yc=\dimen117
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count84
+\c@pgf@countb=\count85
+\c@pgf@countc=\count86
+\c@pgf@countd=\count87
+\t@pgf@toka=\toks21
+\t@pgf@tokb=\toks22
+\t@pgf@tokc=\toks23
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-luatex.def
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsys-luatex.d
+ef
+File: pgfsys-luatex.def 2014/10/11  (rcs-revision 1.35)
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count88
+\pgfsyssoftpath@bigbuffer@items=\count89
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/math/pgfmathcalc.code.tex
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/math/pgfmathutil.code.tex)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen118
+\pgfmath@count=\count90
+\pgfmath@box=\box29
+\pgfmath@toks=\toks24
+\pgfmath@stack@operand=\toks25
+\pgfmath@stack@operation=\toks26
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count91
+))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen119
+\pgf@picmaxx=\dimen120
+\pgf@picminy=\dimen121
+\pgf@picmaxy=\dimen122
+\pgf@pathminx=\dimen123
+\pgf@pathmaxx=\dimen124
+\pgf@pathminy=\dimen125
+\pgf@pathmaxy=\dimen126
+\pgf@xx=\dimen127
+\pgf@xy=\dimen128
+\pgf@yx=\dimen129
+\pgf@yy=\dimen130
+\pgf@zx=\dimen131
+\pgf@zy=\dimen132
+luaotfload | db : Font names database loaded from D:/Progs/TeX/mikTeX/texmfs/dat
+a/luatex-cache/generic/names/luaotfload-names.luc(load luc: D:/Progs/TeX/mikTeX/
+texmfs/data/luatex-cache/generic/fonts/otl/lmroman10-regular.luc))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen133
+\pgf@path@lasty=\dimen134
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen135
+\pgf@shorten@start@additional=\dimen136
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box30
+\pgf@hbox=\box31
+\pgf@layerbox@main=\box32
+\pgf@picture@serial@count=\count92
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen137
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen138
+\pgf@pt@y=\dimen139
+\pgf@pt@temp=\dimen140
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen141
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen142
+\pgf@sys@shading@range@num=\count93
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box33
+))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box34
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen143
+\pgf@nodesepend=\dimen144
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/pgf/utilities/pgffor.sty
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/pgf/utilities/pgfkeys.sty
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex))
+ (D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/pgf/math/pgfmath.sty
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen145
+\pgffor@skip=\dimen146
+\pgffor@stack=\toks27
+\pgffor@toks=\toks28
+))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count94
+\pgfplotmarksize=\dimen147
+)
+\tikz@lastx=\dimen148
+\tikz@lasty=\dimen149
+\tikz@lastxsaved=\dimen150
+\tikz@lastysaved=\dimen151
+\tikzleveldistance=\dimen152
+\tikzsiblingdistance=\dimen153
+\tikz@figbox=\box35
+\tikz@figbox@bg=\box36
+\tikz@tempbox=\box37
+\tikz@tempbox@bg=\box38
+\tikztreelevel=\count95
+\tikznumberofchildren=\count96
+\tikznumberofcurrentchild=\count97
+\tikz@fig@count=\count98
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count99
+\pgfmatrixcurrentcolumn=\count100
+\pgf@matrix@numberofcolumns=\count101
+)
+\tikz@expandcount=\count102
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks29
+\ex@=\dimen154
+))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen155
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count103
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count104
+\leftroot@=\count105
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count106
+\DOTSCASE@=\count107
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box39
+\strutbox@=\box40
+\big@size=\dimen156
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count108
+\c@MaxMatrixCols=\count109
+\dotsspace@=\muskip10
+\c@parentequation=\count110
+\dspbrk@lvl=\count111
+\tag@help=\toks30
+\row@=\count112
+\column@=\count113
+\maxfields@=\count114
+\andhelp@=\toks31
+\eqnshift@=\dimen157
+\alignsep@=\dimen158
+\tagshift@=\dimen159
+\tagwidth@=\dimen160
+\totwidth@=\dimen161
+\lineht@=\dimen162
+\@envbody=\toks32
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks33
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+Packages loaded...
+ Your country 
+ Your language en
+ Your symbols language is 
+ Your directions are in ltr
+ Your numerals are in european
+ Your mode are in 
+Options loaded...
+(./.worksheet.tex
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count115
+\c@section=\count116
+\c@subsection=\count117
+\c@subsubsection=\count118
+\c@paragraph=\count119
+\c@subparagraph=\count120
+\c@figure=\count121
+\c@table=\count122
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen163
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count123
+\Gm@cntv=\count124
+\c@Gm@tempcnt=\count125
+\Gm@bindingoffset=\dimen164
+\Gm@wd@mp=\dimen165
+\Gm@odd@mp=\dimen166
+\Gm@even@mp=\dimen167
+\Gm@layoutwidth=\dimen168
+\Gm@layoutheight=\dimen169
+\Gm@layouthoffset=\dimen170
+\Gm@layoutvoffset=\dimen171
+\Gm@dimlist=\toks34
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/geometry/geometry.cfg))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/tkz-euclide/tkz-euclide.sty
+Package: tkz-euclide 2011/06/01 1.16 c for plots 2d 
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/tkz-base/tkz-base.sty
+Package: tkz-base 2011/06/01 1.16 c tkz-base
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/etex-pkg/etex.sty
+Package: etex 2016/08/01 v2.7 eTeX basic definition package (PEB,DPC)
+\et@xins=\count126
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2013/07/15 v3.0.1a (rcs-revision 1.9)
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/libraries/pgflibraryarrows.
+code.tex
+File: pgflibraryarrows.code.tex 2013/09/23 v3.0.1a (rcs-revision 1.16)
+\arrowsize=\dimen172
+))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/libraries/pgflibraryplotmar
+ks.code.tex
+File: pgflibraryplotmarks.code.tex 2015/08/03 v3.0.1a (rcs-revision 1.14)
+))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2013/07/18 v3.0.1a (rcs-revision 1.5)
+))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.code.tex
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/modules/pgfmoduledecoration
+s.code.tex
+\pgfdecoratedcompleteddistance=\dimen173
+\pgfdecoratedremainingdistance=\dimen174
+\pgfdecoratedinputsegmentcompleteddistance=\dimen175
+\pgfdecoratedinputsegmentremainingdistance=\dimen176
+\pgf@decorate@distancetomove=\dimen177
+\pgf@decorate@repeatstate=\count127
+\pgfdecorationsegmentamplitude=\dimen178
+\pgfdecorationsegmentlength=\dimen179
+)
+\tikz@lib@dec@box=\box41
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.markings.code.tex
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/libraries/decorations/pgfli
+brarydecorations.markings.code.tex))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.pathreplacing.code.tex
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/libraries/decorations/pgfli
+brarydecorations.pathreplacing.code.tex))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarypatterns.code.tex
+File: tikzlibrarypatterns.code.tex 2008/01/15 v3.0.1a (rcs-revision 1.2)
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/libraries/pgflibrarypattern
+s.code.tex
+File: pgflibrarypatterns.code.tex 2008/03/03 v3.0.1a (rcs-revision 1.13)
+))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/numprint/numprint.sty
+Package: numprint 2012/08/20 v1.39 Print numbers (HH)
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/tools/array.sty
+Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
+\col@sep=\dimen180
+\ar@mcellbox=\box42
+\extrarowheight=\dimen181
+\NC@list=\toks35
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box43
+)
+\c@nprt@mantissa@digitsbefore=\count128
+\c@nprt@mantissa@digitsafter=\count129
+\c@nprt@exponent@digitsbefore=\count130
+\c@nprt@exponent@digitsafter=\count131
+\nprt@digitwidth=\skip51
+\nprt@sepwidth=\skip52
+\nprt@decimalwidth=\skip53
+\nprt@blockwidth=\skip54
+\nprt@digittoks=\toks36
+\nprt@pretoks=\toks37
+\nprt@posttoks=\toks38
+\nprt@thisdigit=\count132
+\nprt@curpos=\count133
+\nprt@rndpos=\count134
+\c@nprt@digitsfirstblock=\count135
+\c@nprt@blockcnt=\count136
+\c@nprt@cntprint=\count137
+
+No configuration file `numprint.cfg' found.)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/fp/fp.sty
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/fp/defpattern.sty
+Package: defpattern 1994/10/12
+\actioncount=\count138
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/fp/fp-basic.sty
+Package: fp-basic 1996/05/13
+\FP@xs=\count139
+\FP@xia=\count140
+\FP@xib=\count141
+\FP@xfa=\count142
+\FP@xfb=\count143
+\FP@rega=\count144
+\FP@regb=\count145
+\FP@regs=\count146
+\FP@times=\count147
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/fp/fp-addons.sty
+Package: fp-addons 1995/03/15
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/fp/fp-snap.sty
+Package: fp-snap 1995/04/05
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/fp/fp-exp.sty
+Package: fp-exp 1995/04/03
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/fp/fp-trigo.sty
+Package: fp-trigo 1995/04/14
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/fp/fp-pas.sty
+Package: fp-pas 1994/08/29
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/fp/fp-random.sty
+Package: fp-random 1995/02/23
+\FPseed=\count148
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/fp/fp-eqn.sty
+Package: fp-eqn 1995/04/03
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/fp/fp-upn.sty
+Package: fp-upn 1996/10/21
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/fp/fp-eval.sty
+Package: fp-eval 1995/04/03
+))
+\tkzRadius=\dimen182
+\tkzLength=\dimen183
+\tkz@radi=\dimen184
+\tkz@ax=\dimen185
+\tkz@ay=\dimen186
+\tkz@bx=\dimen187
+\tkz@by=\dimen188
+\tkz@cx=\dimen189
+\tkz@cy=\dimen190
+\tkz@dx=\dimen191
+\tkz@dy=\dimen192
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/tkz-base/tkz-tools-utilities.tex) (D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/tkz-base/tkz-tools-arith.tex
+File: tkz-tool-arith.tex tkz-tool-arith 1.161 c
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/tkz-base/tkz-tools-base.tex)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/tkz-base/tkz-tools-misc.tex)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/tkz-base/tkz-tools-math.tex)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/tkz-base/tkz-obj-points.tex)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/tkz-base/tkz-obj-segments.tex)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/tkz-base/tkz-obj-marks.tex
+\tkz@cntmk=\count149
+))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/tkz-euclide/tkz-tools-intersectio
+ns.tex)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/tkz-euclide/tkz-tools-transformat
+ions.tex)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/tkz-euclide/tkz-obj-lines.tex)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/tkz-euclide/tkz-lib-symbols.tex)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/tkz-euclide/tkz-obj-circles.tex)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/tkz-euclide/tkz-obj-addpoints.tex
+)) (D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/tasks/tasks.sty
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/l3kernel/expl3.sty
+Package: expl3 2018-05-13 L3 programming layer (loader) 
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2018-05-13 L3 programming layer (code)
+\ucharcat@table=\catcodetable5
+\c_max_int=\count150
+\l_tmpa_int=\count151
+\l_tmpb_int=\count152
+\g_tmpa_int=\count153
+\g_tmpb_int=\count154
+\g__kernel_prg_map_int=\count155
+\c_log_iow=\count156
+\l_iow_line_count_int=\count157
+\l__iow_line_target_int=\count158
+\l__iow_one_indent_int=\count159
+\l__iow_indent_int=\count160
+\c_zero_dim=\dimen193
+\c_max_dim=\dimen194
+\l_tmpa_dim=\dimen195
+\l_tmpb_dim=\dimen196
+\g_tmpa_dim=\dimen197
+\g_tmpb_dim=\dimen198
+\c_zero_skip=\skip55
+\c_max_skip=\skip56
+\l_tmpa_skip=\skip57
+\l_tmpb_skip=\skip58
+\g_tmpa_skip=\skip59
+\g_tmpb_skip=\skip60
+\c_zero_muskip=\muskip11
+\c_max_muskip=\muskip12
+\l_tmpa_muskip=\muskip13
+\l_tmpb_muskip=\muskip14
+\g_tmpa_muskip=\muskip15
+\g_tmpb_muskip=\muskip16
+\l_keys_choice_int=\count161
+\l__intarray_loop_int=\count162
+\c__intarray_sp_dim=\dimen199
+\g__intarray_font_int=\count163
+\c__fp_leading_shift_int=\count164
+\c__fp_middle_shift_int=\count165
+\c__fp_trailing_shift_int=\count166
+\c__fp_big_leading_shift_int=\count167
+\c__fp_big_middle_shift_int=\count168
+\c__fp_big_trailing_shift_int=\count169
+\c__fp_Bigg_leading_shift_int=\count170
+\c__fp_Bigg_middle_shift_int=\count171
+\c__fp_Bigg_trailing_shift_int=\count172
+\g__fp_array_int=\count173
+\l__fp_array_loop_int=\count174
+\l__sort_length_int=\count175
+\l__sort_min_int=\count176
+\l__sort_top_int=\count177
+\l__sort_max_int=\count178
+\l__sort_true_max_int=\count179
+\l__sort_block_int=\count180
+\l__sort_begin_int=\count181
+\l__sort_end_int=\count182
+\l__sort_A_int=\count183
+\l__sort_B_int=\count184
+\l__sort_C_int=\count185
+\l__tl_analysis_normal_int=\count186
+\l__tl_analysis_index_int=\count187
+\l__tl_analysis_nesting_int=\count188
+\l__tl_analysis_type_int=\count189
+\l__regex_internal_a_int=\count190
+\l__regex_internal_b_int=\count191
+\l__regex_internal_c_int=\count192
+\l__regex_balance_int=\count193
+\l__regex_group_level_int=\count194
+\l__regex_mode_int=\count195
+\c__regex_cs_in_class_mode_int=\count196
+\c__regex_cs_mode_int=\count197
+\l__regex_catcodes_int=\count198
+\l__regex_default_catcodes_int=\count199
+Normal \count register pool exhausted, switching to extended pool.
+\c__regex_catcode_L_int=\count277
+\c__regex_catcode_O_int=\count278
+\c__regex_catcode_A_int=\count279
+\c__regex_all_catcodes_int=\count280
+\l__regex_show_lines_int=\count281
+\l__regex_min_state_int=\count282
+\l__regex_max_state_int=\count283
+\l__regex_left_state_int=\count284
+\l__regex_right_state_int=\count285
+\l__regex_capturing_group_int=\count286
+\l__regex_min_pos_int=\count287
+\l__regex_max_pos_int=\count288
+\l__regex_curr_pos_int=\count289
+\l__regex_start_pos_int=\count290
+\l__regex_success_pos_int=\count291
+\l__regex_curr_char_int=\count292
+\l__regex_curr_catcode_int=\count293
+\l__regex_last_char_int=\count294
+\l__regex_case_changed_char_int=\count295
+\l__regex_curr_state_int=\count296
+\l__regex_step_int=\count297
+\l__regex_min_active_int=\count298
+\l__regex_max_active_int=\count299
+\l__regex_replacement_csnames_int=\count300
+\l__regex_match_count_int=\count301
+\l__regex_min_submatch_int=\count302
+\l__regex_submatch_int=\count303
+\l__regex_zeroth_submatch_int=\count304
+\g__regex_trace_regex_int=\count305
+\c_empty_box=\box44
+\l_tmpa_box=\box45
+\l_tmpb_box=\box46
+\g_tmpa_box=\box47
+\g_tmpb_box=\box48
+Normal \dimen register pool exhausted, switching to extended pool.
+\l__box_top_dim=\dimen256
+\l__box_bottom_dim=\dimen257
+\l__box_left_dim=\dimen258
+\l__box_right_dim=\dimen259
+\l__box_top_new_dim=\dimen260
+\l__box_bottom_new_dim=\dimen261
+\l__box_left_new_dim=\dimen262
+\l__box_right_new_dim=\dimen263
+\l__box_internal_box=\box49
+\l__coffin_internal_box=\box50
+\l__coffin_internal_dim=\dimen264
+\l__coffin_offset_x_dim=\dimen265
+\l__coffin_offset_y_dim=\dimen266
+\l__coffin_x_dim=\dimen267
+\l__coffin_y_dim=\dimen268
+\l__coffin_x_prime_dim=\dimen269
+\l__coffin_y_prime_dim=\dimen270
+\c_empty_coffin=\box51
+\l__coffin_aligned_coffin=\box52
+\l__coffin_aligned_internal_coffin=\box53
+\l_tmpa_coffin=\box54
+\l_tmpb_coffin=\box55
+\l__coffin_display_coffin=\box56
+\l__coffin_display_coord_coffin=\box57
+\l__coffin_display_pole_coffin=\box58
+\l__coffin_display_offset_dim=\dimen271
+\l__coffin_display_x_dim=\dimen272
+\l__coffin_display_y_dim=\dimen273
+\g__file_internal_ior=\read2
+\l__coffin_bounding_shift_dim=\dimen274
+\l__coffin_left_corner_dim=\dimen275
+\l__coffin_right_corner_dim=\dimen276
+\l__coffin_bottom_corner_dim=\dimen277
+\l__coffin_top_corner_dim=\dimen278
+\l__coffin_scaled_total_height_dim=\dimen279
+\l__coffin_scaled_width_dim=\dimen280
+\l__seq_internal_a_int=\count306
+\l__seq_internal_b_int=\count307
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/l3kernel/l3pdfmode.def
+File: l3pdfmode.def 2018-05-13 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count308
+))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2018-05-12 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count309
+\g__xparse_grabber_int=\count310
+\l__xparse_m_args_int=\count311
+\l__xparse_mandatory_args_int=\count312
+\l__xparse_v_nesting_int=\count313
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/eepic/epic.sty
+Enhancements to Picture Environment. Version 1.2 - Released June 1, 1986
+\@@multicnt=\count314
+\d@lta=\count315
+\@delta=\dimen281
+\@@delta=\dimen282
+\@gridcnt=\count316
+\@joinkind=\count317
+\@dotgap=\dimen283
+\@ddotgap=\dimen284
+\@x@diff=\count318
+\@y@diff=\count319
+\x@diff=\dimen285
+\y@diff=\dimen286
+\@dotbox=\box59
+\num@segments=\count320
+\num@segmentsi=\count321
+\@datafile=\read3
+) (D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/cntformats/cntformats.sty
+Package: cntformats 2014/07/20 v0.7 A different way to read counters. (CN)
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count322
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/cnltx/cnltx-base.sty
+Package: cnltx-base 2015/08/17 v0.13 LaTeX tools and documenting facilities (CN)
+
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/pgfopts/pgfopts.sty
+Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
+\pgfopts@list@add@a@toks=\toks39
+\pgfopts@list@add@b@toks=\toks40
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO)
+
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks41
+)
+\c@cnltx@tmpa=\count323
+\c@cnltx@tmpb=\count324
+\c@cnltx@tmpc=\count325
+\cnltx@tmpa@length=\skip61
+\cnltx@tmpb@length=\skip62
+\cnltx@tmpc@length=\skip63
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/l3packages/xtemplate/xtemplate.st
+y
+Package: xtemplate 2018-05-12 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen287
+\l__xtemplate_tmp_int=\count326
+\l__xtemplate_tmp_muskip=\muskip17
+\l__xtemplate_tmp_skip=\skip64
+) (D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+)
+Package: tasks 2016/08/13 v0.12 Horizontalcolumnedlists (CN)
+\l__tasks_depth_int=\count327
+\g__tasks_int=\count328
+\g__tasks_total_items_int=\count329
+\l__tasks_columns_int=\count330
+\l__tasks_rows_int=\count331
+\g__tasks_current_col_num_int=\count332
+\g__tasks_current_row_num_int=\count333
+\l__tasks_item_columns_int=\count334
+\l__tasks_item_indent_dim=\dimen288
+\l__tasks_item_default_indent_dim=\dimen289
+\l__tasks_item_width_dim=\dimen290
+\l__tasks_label_width_dim=\dimen291
+\l__tasks_label_default_width_dim=\dimen292
+\l__tasks_label_offset_dim=\dimen293
+\l__tasks_label_default_offset_dim=\dimen294
+\l__tasks_column_sep_dim=\dimen295
+\l__tasks_after_item_skip=\skip65
+\l__tasks_custom_after_item_skip=\skip66
+\l__tasks_before_list_skip=\skip67
+\l__tasks_after_list_skip=\skip68
+\l__tasks_item_coffin=\box60
+\l__tasks_label_coffin=\box61
+\c@task=\count335
+\l__tasks_tmpa_int=\count336
+\l__tasks_tmpb_int=\count337
+\l__tasks_tmpa_coffin=\box62
+.................................................
+. xtemplate info: "declare-object-type"
+. 
+. Declaring object type 'tasks' taking 3 argument(s) on line 379.
+.................................................
+\l__tasks_choice_width_dim=\dimen296
+\l__tasks_choice_linewidth_dim=\dimen297
+\l__tasks_choice_checkwidth_dim=\dimen298
+\l__tasks_choice_raise_dim=\dimen299
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \startnewitemline with sig. '' on line 692.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \NewTasks with sig. 'O{}mO{\task }D(){1}' on line 701.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \RenewTasks with sig. 'O{}mO{\task }D(){1}' on line 708.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-environment"
+. 
+. Defining environment 'tasks' with sig. 'O{}D(){1}' on line 714.
+.................................................
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/tasks/tasks.cfg
+File: tasks.cfg 2016/08/13 v0.12 tasks instances
+)
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \settasks with sig. 'm' on line 722.
+.................................................
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2018/05/02 v1.0c Color table columns (DPC)
+\everycr=\toks42
+\minrowclearance=\skip69
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/chemformula/chemformula.sty
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2018-05-12 LaTeX2e option processing using LaTeX3 keys
+) (D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/l3packages/xfrac/xfrac.sty
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/base/textcomp.sty
+Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+Package: xfrac 2018-05-12 L3 Experimental split-level fractions
+\l__xfrac_slash_box=\box63
+\l__xfrac_tmp_box=\box64
+\l__xfrac_denominator_bot_sep_dim=\dimen300
+\l__xfrac_numerator_bot_sep_dim=\dimen301
+\l__xfrac_numerator_top_sep_dim=\dimen302
+\l__xfrac_slash_left_sep_dim=\dimen303
+\l__xfrac_slash_right_sep_dim=\dimen304
+\l__xfrac_slash_left_muskip=\muskip18
+\l__xfrac_slash_right_muskip=\muskip19
+.................................................
+. xtemplate info: "declare-object-type"
+. 
+. Declaring object type 'xfrac' taking 3 argument(s) on line 80.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \sfrac with sig. 'omom' on line 420.
+.................................................
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/units/nicefrac.sty
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip70
+\L@UnitsRaiseTextstyle=\skip71
+\L@UnitsRaiseScriptstyle=\skip72
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2018/03/30 v3.25 KOMA-Script package (loading files)
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/libraries/pgflibraryarrows.
+meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2015/05/13 v3.0.1a (rcs-revision 1.13)
+\pgfarrowinset=\dimen305
+\pgfarrowlength=\dimen306
+\pgfarrowwidth=\dimen307
+\pgfarrowlinewidth=\dimen308
+)
+Package: chemformula 2017/03/23 v4.15e typeset chemical compounds and reactions 
+(CN)
+\l__chemformula_tmpa_dim=\dimen309
+\l__chemformula_tmpb_dim=\dimen310
+\l__chemformula_tmpc_dim=\dimen311
+\l__chemformula_tmpa_int=\count338
+\l__chemformula_tmpb_int=\count339
+\l__chemformula_tmpc_int=\count340
+\l__chemformula_tmpa_box=\box65
+\l__chemformula_tmpb_box=\box66
+\l__chemformula_arrow_length_dim=\dimen312
+\l__chemformula_arrow_label_height_dim=\dimen313
+\l__chemformula_arrow_label_offset_dim=\dimen314
+\l__chemformula_arrow_minimum_length_dim=\dimen315
+\l__chemformula_arrow_shortage_dim=\dimen316
+\l__chemformula_arrow_offset_dim=\dimen317
+\l__chemformula_arrow_yshift_dim=\dimen318
+\l__chemformula_radical_radius_dim=\dimen319
+\l__chemformula_radical_hshift_dim=\dimen320
+\l__chemformula_radical_vshift_dim=\dimen321
+\l__chemformula_radical_space_dim=\dimen322
+\l__chemformula_arrow_head_dim=\dimen323
+\l__chemformula_name_dim=\dimen324
+\l__chemformula_adduct_space_dim=\dimen325
+\l__chemformula_charge_shift_dim=\dimen326
+\l__chemformula_subscript_shift_dim=\dimen327
+\l__chemformula_superscript_shift_dim=\dimen328
+\l__chemformula_subscript_dim=\dimen329
+\l__chemformula_superscript_dim=\dimen330
+\l__chemformula_bond_dim=\dimen331
+\l__chemformula_bond_space_dim=\dimen332
+\l__chemformula_elspec_pair_distance_dim=\dimen333
+\l__chemformula_elspec_pair_line_length_dim=\dimen334
+\l__chemformula_elspec_pair_width_dim=\dimen335
+\l__chemformula_kroegervink_positive_radius_dim=\dimen336
+\l__chemformula_kroegervink_positive_hshift_dim=\dimen337
+\l__chemformula_kroegervink_positive_vshift_dim=\dimen338
+\l__chemformula_kroegervink_positive_space_dim=\dimen339
+\l__chemformula_stoich_space_skip=\skip73
+\l__chemformula_math_space_skip=\skip74
+\l__chemformula_count_tokens_int=\count341
+\g__chemformula_lewis_int=\count342
+\l__chemformula_arrow_arg_i_box=\box67
+\l__chemformula_arrow_arg_ii_box=\box68
+\l__chemformula_superscript_box=\box69
+\l__chemformula_subscript_box=\box70
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \charrow with sig. 'mO{}O{}' on line 823.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \NewChemArrow with sig. 'mm' on line 896.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareChemArrow with sig. 'mm' on line 904.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \RenewChemArrow with sig. 'mm' on line 911.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ProvideChemArrow with sig. 'mm' on line 921.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ShowChemArrow with sig. 'm' on line 931.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ch with sig. 'O{}m' on line 1176.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \chcpd with sig. 'O{}m' on line 1198.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \chname with sig. 'R(){}R(){}' on line 1276.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \NewChemCompoundProperty with sig. 'mm' on line 1361.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \RenewChemCompoundProperty with sig. 'mm' on line 1364.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ProvideChemCompoundProperty with sig. 'mm' on line 1367.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareChemCompoundProperty with sig. 'mm' on line 1370.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \RemoveChemCompoundProperty with sig. 'm' on line 1373.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \NewChemBond with sig. 'mm' on line 1571.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ProvideChemBond with sig. 'mm' on line 1574.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareChemBond with sig. 'mm' on line 1577.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \RenewChemBond with sig. 'mm' on line 1580.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \NewChemBondAlias with sig. 'mm' on line 1583.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareChemBondAlias with sig. 'mm' on line 1586.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ShowChemBond with sig. 'm' on line 1589.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \bond with sig. 'm' on line 1592.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \chstoich with sig. 'm' on line 2191.
+.................................................
+\l__chemformula_additions_symbol_space_skip=\skip75
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \NewChemAdditionSymbol with sig. 'mmm' on line 2697.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ProvideChemAdditionSymbol with sig. 'mmm' on line 2706.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \RenewChemAdditionSymbol with sig. 'mmm' on line 2715.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareChemAdditionSymbol with sig. 'mmm' on line 2718.
+.................................................
+\l__chemformula_plus_space_skip=\skip76
+\l__chemformula_minus_space_skip=\skip77
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \NewChemSymbol with sig. 'mm' on line 2763.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ProvideChemSymbol with sig. 'mm' on line 2769.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \RenewChemSymbol with sig. 'mm' on line 2776.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareChemSymbol with sig. 'mm' on line 2779.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \chlewis with sig. 'O{}mm' on line 3334.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setchemformula with sig. 'm' on line 3339.
+.................................................
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/tabulary/tabulary.sty
+Package: tabulary 2014/06/11 v0.10 tabulary package (DPC)
+\TY@count=\count343
+\TY@linewidth=\dimen340
+\tymin=\dimen341
+\tymax=\dimen342
+\TY@tablewidth=\dimen343
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen344
+\WF@size=\dimen345
+\c@WF@wrappedlines=\count344
+\WF@box=\box71
+\WF@everypar=\toks43
+Package: wrapfig 2003/01/31  v 3.6
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/oberdiek/alphalph.sty
+Package: alphalph 2016/05/16 v2.5 Convert numbers to letters (HO)
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/oberdiek/intcalc.sty
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip78
+\enit@outerparindent=\dimen346
+\enit@toks=\toks44
+\enit@inbox=\box72
+\enitdp@description=\count345
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/svg/svg.sty
+Package: svg 2017/11/29 v2.01 (include SVG pictures)
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2018/03/30 v3.25 KOMA-Script package (KOMA-Script-independent b
+asics and keyval usage)
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/tools/shellesc.sty
+Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 69.
+)
+\c@svg@param@lastpage=\count346
+\c@svg@param@currpage=\count347
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/oberdiek/transparent.sty
+Package: transparent 2016/05/16 v1.1 Transparency via pdfTeX's color stack (HO)
+
+
+Package transparent Warning: Your pdfTeX version does not support color stacks.
+
+) (D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/xstring/xstring.sty
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/xstring/xstring.tex
+\@xs@message=\write4
+\integerpart=\count348
+\decimalpart=\count349
+)
+Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2018/04/08 v1.1 Adjusting TeX boxes (trim, clip, ...)
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/xkeyval/xkeyval.tex
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks45
+\XKV@tempa@toks=\toks46
+)
+\XKV@depth=\count350
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-
+ends (calc, etex, pgfmath)
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2018/04/08 v1.1 Trim and clip general TeX material
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box73
+)
+\tc@llx=\dimen347
+\tc@lly=\dimen348
+\tc@urx=\dimen349
+\tc@ury=\dimen350
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/adjustbox/tc-pgf.def
+File: tc-pgf.def 2018/04/08 v2.1 trimclip fall-back clipping driver using PGF
+)
+Package trimclip Info: No clipping driver 'tc-luatex.def' available.
+(trimclip)             Using fall-back PGF driver.
+)
+\adjbox@Width=\dimen351
+\adjbox@Height=\dimen352
+\adjbox@Depth=\dimen353
+\adjbox@Totalheight=\dimen354
+\adjbox@pwidth=\dimen355
+\adjbox@pheight=\dimen356
+\adjbox@pdepth=\dimen357
+\adjbox@ptotalheight=\dimen358
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count351
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box74
+\sift@deathcycles=\count352
+\@vwid@loff=\dimen359
+\@vwid@roff=\dimen360
+))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/tkz-euclide/tkz-obj-polygons.tex) (D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/tkz-euclide/tkz-obj-vectors.tex) (D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/tkz-euclide/tkz-obj-arcs.tex)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/tkz-euclide/tkz-obj-sectors.tex)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/tkz-euclide/tkz-obj-angles.tex)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/tkz-euclide/tkz-obj-protractor.te
+x)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryangles.code.tex
+File: tikzlibraryangles.code.tex 2013/08/28 v3.0.1a (rcs-revision 1.1)
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryautomata.code.tex
+File: tikzlibraryautomata.code.tex 2008/07/14 v3.0.1a (rcs-revision 1.3)
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2010/01/07 v3.0.1a (rcs-revision 1.2)
+\pgfnodepartlowerbox=\box75
+\pgfnodeparttwobox=\box76
+\pgfnodepartthreebox=\box77
+\pgfnodepartfourbox=\box78
+\pgfnodeparttwentybox=\box79
+\pgfnodepartnineteenbox=\box80
+\pgfnodeparteighteenbox=\box81
+\pgfnodepartseventeenbox=\box82
+\pgfnodepartsixteenbox=\box83
+\pgfnodepartfifteenbox=\box84
+\pgfnodepartfourteenbox=\box85
+\pgfnodepartthirteenbox=\box86
+\pgfnodeparttwelvebox=\box87
+\pgfnodepartelevenbox=\box88
+\pgfnodeparttenbox=\box89
+\pgfnodepartninebox=\box90
+\pgfnodeparteightbox=\box91
+\pgfnodepartsevenbox=\box92
+\pgfnodepartsixbox=\box93
+\pgfnodepartfivebox=\box94
+)))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryintersections.code.tex
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/libraries/pgflibraryinterse
+ctions.code.tex
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/libraries/pgflibraryfpu.cod
+e.tex)
+\pgf@intersect@solutions=\count353
+))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryquotes.code.tex
+File: tikzlibraryquotes.code.tex 2014/03/21 v3.0.1a (rcs-revision 1.4)
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2008/06/26 v3.0.1a (rcs-revision 1.1)
+))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2013/09/11 v3.0.1a (rcs-revision 1.6)
+))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2008/06/26 v3.0.1a (rcs-revision 1.1)
+))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.callouts.code.tex
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.callouts.code.tex)))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package hobsub Info: Skipping package `intcalc' (already loaded).
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: luatex-loader 2016/05/16 v0.6 Lua module loader (HO)
+
+(D:/Progs/TeX/mikTeX/texmfs/install/scripts/oberdiek/oberdiek.luatex.lua)
+Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO)
+
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen361
+\Hy@linkcounter=\count354
+\Hy@pagecounter=\count355
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count356
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/00miktex/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4509.
+Package hyperref Info: Link nesting OFF on input line 4514.
+Package hyperref Info: Hyper index ON on input line 4517.
+Package hyperref Info: Plain pages OFF on input line 4524.
+Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4762.
+\c@Hy@tempcnt=\count357
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/url/url.sty
+\Urlmuskip=\muskip20
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5115.
+\XeTeXLinkMargin=\dimen362
+\Fld@menulength=\count358
+\Field@Width=\dimen363
+\Fld@charsize=\dimen364
+Package hyperref Info: Hyper figures OFF on input line 6369.
+Package hyperref Info: Link nesting OFF on input line 6374.
+Package hyperref Info: Hyper index ON on input line 6377.
+Package hyperref Info: backreferencing OFF on input line 6384.
+Package hyperref Info: Link coloring OFF on input line 6389.
+Package hyperref Info: Link coloring with OCG OFF on input line 6394.
+Package hyperref Info: PDF/A mode OFF on input line 6399.
+LaTeX Info: Redefining \ref on input line 6439.
+LaTeX Info: Redefining \pageref on input line 6443.
+\Hy@abspage=\count359
+\c@Item=\count360
+\c@Hfootnote=\count361
+)
+Package hyperref Info: Driver (autodetected): hluatex.
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/hyperref/hluatex.def
+File: hluatex.def 2018/02/06 v6.86b Hyperref driver for luaTeX
+\Fld@listcount=\count362
+\c@bookmark@seq@number=\count363
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
+2.
+)
+\Hy@SectionHShift=\skip79
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/nowidow/nowidow.sty
+Package: nowidow 2011/09/20 1.0 Easily prevent widows and orphans
+Package: nowidow 
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/hyphenat/hyphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language2
+LaTeX Info: Redefining \_ on input line 43.
+)
+\c@question=\count364
+\c@nagwaChoiceLabel=\count365
+(load luc: D:/Progs/TeX/mikTeX/texmfs/data/luatex-cache/generic/fonts/otl/lmroma
+n12-regular.luc)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/unicode-math/unicode-math.sty
+Package: unicode-math 2018/02/02 vv0.8l Unicode maths in XeLaTeX and LuaLaTeX
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/unicode-math/unicode-math-luatex.
+sty
+Package: unicode-math-luatex 2018/02/02 vv0.8l Unicode maths in XeLaTeX and LuaL
+aTeX
+ (D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2017/11/09 2.6g Font selection for XeLaTeX and LuaLaTeX
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/fontspec/fontspec-luatex.sty
+Package: fontspec-luatex 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count366
+\l__fontspec_language_int=\count367
+\l__fontspec_strnum_int=\count368
+\l__fontspec_tmp_int=\count369
+\l__fontspec_em_int=\count370
+\l__fontspec_emdef_int=\count371
+\l__fontspec_strong_int=\count372
+\l__fontspec_strongdef_int=\count373
+\l__fontspec_tmpa_dim=\dimen365
+\l__fontspec_tmpb_dim=\dimen366
+\l__fontspec_tmpc_dim=\dimen367
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/base/tuenc.def
+File: tuenc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
+))
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fontspec with sig. 'O{}mO{}' on line 545.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmainfont with sig. 'O{}mO{}' on line 549.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setsansfont with sig. 'O{}mO{}' on line 553.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmonofont with sig. 'O{}mO{}' on line 557.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathrm with sig. 'O{}mO{}' on line 561.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setboldmathrm with sig. 'O{}mO{}' on line 565.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathsf with sig. 'O{}mO{}' on line 569.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathtt with sig. 'O{}mO{}' on line 573.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setromanfont with sig. 'O{}mO{}' on line 577.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfamily with sig. 'mO{}mO{}' on line 581.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontface with sig. 'mO{}mO{}' on line 585.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \defaultfontfeatures with sig. 't+om' on line 589.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addfontfeatures with sig. 'm' on line 593.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addfontfeature with sig. 'm' on line 597.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfeature with sig. 'mm' on line 601.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newAATfeature with sig. 'mmmm' on line 605.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newopentypefeature with sig. 'mmm' on line 609.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newICUfeature with sig. 'mmm' on line 613.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeature with sig. 'mm' on line 617.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 621.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontscript with sig. 'mm' on line 625.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontlanguage with sig. 'mm' on line 629.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareFontsExtensions with sig. 'm' on line 633.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \IfFontFeatureActiveTF with sig. 'mmm' on line 637.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingCommand with sig. 'mO{}m' on line 3366.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingAccent with sig. 'mm' on line 3372.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingSymbol with sig. 'mm' on line 3378.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingComposite with sig. 'mmm' on line 3384.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3390.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3415.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareSymbol with sig. 'm' on line 3421.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareAccent with sig. 'm' on line 3427.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareCommand with sig. 'm' on line 3433.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareComposite with sig. 'mm' on line 3440.
+.................................................
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/fontspec/fontspec.cfg)
+LaTeX Info: Redefining \itshape on input line 3625.
+LaTeX Info: Redefining \slshape on input line 3630.
+LaTeX Info: Redefining \scshape on input line 3635.
+LaTeX Info: Redefining \upshape on input line 3640.
+LaTeX Info: Redefining \em on input line 3670.
+LaTeX Info: Redefining \emph on input line 3695.
+(load luc: D:/Progs/TeX/mikTeX/texmfs/data/luatex-cache/generic/fonts/otl/lmroma
+n12-bold.luc)(load luc: D:/Progs/TeX/mikTeX/texmfs/data/luatex-cache/generic/fon
+ts/otl/lmroman12-italic.luc)
+LaTeX Info: Redefining \- on input line 3749.
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \oldstylenums with sig. 'm' on line 3844.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \liningnums with sig. 'm' on line 3848.
+.................................................
+))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/filehook/filehook.sty
+Package: filehook 2011/10/12 v0.5d Hooks for input files
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/filehook/filehook-scrlfile.sty
+Package: filehook-scrlfile 2011/01/03 v0.1 filehook patch for scrlfile package
+Package filehook Info: Package 'scrlfile' detected and compensated for on input 
+line 102.
+))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/base/fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/lualatex/lualatex-math/lualatex-math.st
+y
+Package: lualatex-math 2017/06/15 v1.7 Patches for mathematics typesetting with 
+LuaLaTeX
+Lua module: lualatex-math 2013/08/03 1.3 Patches for mathematics typesetting wit
+h LuaLaTeX
+.................................................
+. lualatex-math info: "patch-macro"
+. 
+. I'm going to patch macro \subarray.
+.................................................
+.................................................
+. lualatex-math info: "patch-macro"
+. 
+. I'm going to patch macro \frac .
+.................................................
+.................................................
+. lualatex-math info: "patch-macro"
+. 
+. I'm going to patch macro \genfrac .
+.................................................
+)
+\g__um_fam_int=\count374
+\g__um_fonts_used_int=\count375
+\l__um_primecount_int=\count376
+\g__um_primekern_muskip=\muskip21
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \unimathsetup with sig. 'm' on line 277.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathfont with sig. 'O{}mO{}' on line 281.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathfontface with sig. 'mO{}mO{}' on line 285.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setoperatorfont with sig. 'm' on line 290.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addnolimits with sig. 'm' on line 295.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \removenolimits with sig. 'm' on line 299.
+.................................................
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/unicode-math/unicode-math-table.t
+ex)
+.................................................
+. unicode-math info: "patch-macro"
+. 
+. I'm going to patch macro \plainroot@.
+.................................................
+.................................................
+. unicode-math info: "patch-macro"
+. 
+. I'm going to patch macro \r@@t.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \not with sig. 'm' on line 3840.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \NewNegationCommand with sig. 'mm' on line 3844.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \RenewNegationCommand with sig. 'mm' on line 3848.
+.................................................
+))(load luc: D:/Progs/TeX/mikTeX/texmfs/data/luatex-cache/generic/fonts/otl/stix
+2text-regular.luc)
+\g__fontspec_family_STIX2Text-Regular.otf_int=\count377
+(load luc: D:/Progs/TeX/mikTeX/texmfs/data/luatex-cache/generic/fonts/otl/stix2t
+ext-bold.luc)(load luc: D:/Progs/TeX/mikTeX/texmfs/data/luatex-cache/generic/fon
+ts/otl/stix2text-italic.luc)(load luc: D:/Progs/TeX/mikTeX/texmfs/data/luatex-ca
+che/generic/fonts/otl/stix2text-bolditalic.luc)
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'STIX2Text-Regular.otf(0)' created for font
+. 'STIX2Text-Regular.otf' with options [Ligatures=TeX,BoldFont =
+. STIX2Text-Bold.otf,ItalicFont = STIX2Text-Italic.otf,BoldItalicFont =
+. STIX2Text-BoldItalic.otf].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.:
+. <->"[STIX2Text-Regular.otf]:mode=node;script=latn;language=DFLT;+tlig;"
+. - 'small caps'  (m/sc) with NFSS spec.:
+. <->"[STIX2Text-Regular.otf]:mode=node;script=latn;language=DFLT;+tlig;+smcp;"
+. - 'bold' (bx/n) with NFSS spec.:
+. <->"[STIX2Text-Bold.otf]:mode=node;script=latn;language=DFLT;+tlig;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.:
+. <->"[STIX2Text-Bold.otf]:mode=node;script=latn;language=DFLT;+tlig;+smcp;"
+. - 'italic' (m/it) with NFSS spec.:
+. <->"[STIX2Text-Italic.otf]:mode=node;script=latn;language=DFLT;+tlig;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.:
+. <->"[STIX2Text-Italic.otf]:mode=node;script=latn;language=DFLT;+tlig;+smcp;"
+. - 'bold italic' (bx/it) with NFSS spec.:
+. <->"[STIX2Text-BoldItalic.otf]:mode=node;script=latn;language=DFLT;+tlig;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+. <->"[STIX2Text-BoldItalic.otf]:mode=node;script=latn;language=DFLT;+tlig;+smcp
+;"
+.................................................
+LaTeX Info: Redefining \rmfamily on input line 417.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'STIX2Text-Regular.otf(1)' created for font
+. 'STIX2Text-Regular.otf' with options [Renderer=Basic,BoldFont =
+. STIX2Text-Bold.otf,ItalicFont = STIX2Text-Italic.otf,BoldItalicFont =
+. STIX2Text-BoldItalic.otf].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.:
+. <->"[STIX2Text-Regular.otf]:mode=base;script=latn;language=DFLT;"
+. - 'small caps'  (m/sc) with NFSS spec.:
+. <->"[STIX2Text-Regular.otf]:mode=base;script=latn;language=DFLT;+smcp;"
+. - 'bold' (bx/n) with NFSS spec.:
+. <->"[STIX2Text-Bold.otf]:mode=base;script=latn;language=DFLT;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.:
+. <->"[STIX2Text-Bold.otf]:mode=base;script=latn;language=DFLT;+smcp;"
+. - 'italic' (m/it) with NFSS spec.:
+. <->"[STIX2Text-Italic.otf]:mode=base;script=latn;language=DFLT;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.:
+. <->"[STIX2Text-Italic.otf]:mode=base;script=latn;language=DFLT;+smcp;"
+. - 'bold italic' (bx/it) with NFSS spec.:
+. <->"[STIX2Text-BoldItalic.otf]:mode=base;script=latn;language=DFLT;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+. <->"[STIX2Text-BoldItalic.otf]:mode=base;script=latn;language=DFLT;+smcp;"
+.................................................
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/STIX2Text-Regular.otf(1)/m/n on input
+ line 417.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/STIX2Text-Regular.otf(1)/m/it on inp
+ut line 417.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/STIX2Text-Regular.otf(1)/bx/n on inp
+ut line 417.
+LaTeX Font Info:    Calculating math sizes for size <13.5> on input line 417.
+(load luc: D:/Progs/TeX/mikTeX/texmfs/data/luatex-cache/generic/fonts/otl/nagwam
+ath.luc)
+\g__fontspec_family_NagwaMath.otf_int=\count378
+luaotfload | aux : font no 34 (nil) does not define feature smcp for script math
+ with language dflt
+luaotfload | aux : no font with id 34
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'NagwaMath.otf(0)' created for font 'NagwaMath.otf' with options
+. [Renderer=Basic,BoldItalicFont={},ItalicFont={},Script=Math,FontAdjustment={\_
+_um_luatex_copy_fontdimens:
+. },StylisticSet={8}].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.:
+. <->"[NagwaMath.otf]:mode=base;script=math;language=DFLT;+ss08;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+. and font adjustment code:
+. \__um_luatex_copy_fontdimens: 
+.................................................
+luaotfload | aux : font no 34 (nil) does not define feature smcp for script math
+ with language dflt
+luaotfload | aux : no font with id 34
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'NagwaMath.otf(1)' created for font 'NagwaMath.otf' with options
+. [Renderer=Basic,BoldItalicFont={},ItalicFont={},Script=Math,SizeFeatures={{Siz
+e=11.474975-},{Size=8.099975-11.474975,Font=NagwaMath.otf,Style=MathScript},{Siz
+e=-8.099975,Font=NagwaMath.otf,Style=MathScriptScript}},FontAdjustment={\__um_lu
+atex_copy_fontdimens:
+. },StylisticSet={8}].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.:
+. <11.474975->"[NagwaMath.otf]:mode=base;script=math;language=DFLT;+ss08;"<8.099
+975-11.474975>"[NagwaMath.otf]:mode=base;script=math;language=DFLT;+ss08;+ssty=0
+;"<-8.099975>"[NagwaMath.otf]:mode=base;script=math;language=DFLT;+ss08;+ssty=1;
+"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+. and font adjustment code:
+. \__um_luatex_copy_fontdimens: 
+.................................................
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 417.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/NagwaMath.otf(1)/m/n on input line 41
+7.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 417.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/NagwaMath.otf(1)/bx/n on input line 
+417.
+luaotfload | aux : font no 34 (nil) does not define feature smcp for script math
+ with language dflt
+luaotfload | aux : no font with id 34
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'NagwaMath.otf(2)' created for font 'NagwaMath.otf' with options
+. [Renderer=Basic,BoldItalicFont={},ItalicFont={},Script=Math,SizeFeatures={{Siz
+e=11.474975-},{Size=8.099975-11.474975,Font=NagwaMath.otf,Style=MathScript},{Siz
+e=-8.099975,Font=NagwaMath.otf,Style=MathScriptScript}},FontAdjustment={\__um_lu
+atex_copy_fontdimens:
+. },StylisticSet={8},Scale=1.00001,FontAdjustment={\fontdimen 8\font
+. =8.64pt\relax \fontdimen 9\font =7.89749pt\relax \fontdimen 10\font
+. =6.34499pt\relax \fontdimen 11\font =8.64pt\relax \fontdimen 12\font
+. =7.89749pt\relax \fontdimen 13\font =4.85999pt\relax \fontdimen 14\font
+. =4.85999pt\relax \fontdimen 15\font =3.402pt\relax \fontdimen 16\font
+. =2.83499pt\relax \fontdimen 17\font =2.83499pt\relax \fontdimen 18\font
+. =3.105pt\relax \fontdimen 19\font =2.15999pt\relax \fontdimen 22\font
+. =3.48299pt\relax \fontdimen 20\font =0pt\relax \fontdimen 21\font =0pt\relax
+. }].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.:
+. <11.474975->s*[1.00001]"[NagwaMath.otf]:mode=base;script=math;language=DFLT;+s
+s08;"<8.099975-11.474975>s*[1.00001]"[NagwaMath.otf]:mode=base;script=math;langu
+age=DFLT;+ss08;+ssty=0;"<-8.099975>s*[1.00001]"[NagwaMath.otf]:mode=base;script=
+math;language=DFLT;+ss08;+ssty=1;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+. and font adjustment code:
+. \__um_luatex_copy_fontdimens: \fontdimen 8\font =8.64pt\relax \fontdimen
+. 9\font =7.89749pt\relax \fontdimen 10\font =6.34499pt\relax \fontdimen
+. 11\font =8.64pt\relax \fontdimen 12\font =7.89749pt\relax \fontdimen 13\font
+. =4.85999pt\relax \fontdimen 14\font =4.85999pt\relax \fontdimen 15\font
+. =3.402pt\relax \fontdimen 16\font =2.83499pt\relax \fontdimen 17\font
+. =2.83499pt\relax \fontdimen 18\font =3.105pt\relax \fontdimen 19\font
+. =2.15999pt\relax \fontdimen 22\font =3.48299pt\relax \fontdimen 20\font
+. =0pt\relax \fontdimen 21\font =0pt\relax 
+.................................................
+LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 417.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> TU/NagwaMath.otf(2)/m/n on input line 4
+17.
+LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 417.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> TU/NagwaMath.otf(2)/bx/n on input line 
+417.
+luaotfload | aux : font no 34 (nil) does not define feature smcp for script math
+ with language dflt
+luaotfload | aux : no font with id 34
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'NagwaMath.otf(3)' created for font 'NagwaMath.otf' with options
+. [Renderer=Basic,BoldItalicFont={},ItalicFont={},Script=Math,SizeFeatures={{Siz
+e=11.474975-},{Size=8.099975-11.474975,Font=NagwaMath.otf,Style=MathScript},{Siz
+e=-8.099975,Font=NagwaMath.otf,Style=MathScriptScript}},FontAdjustment={\__um_lu
+atex_copy_fontdimens:
+. },StylisticSet={8},Scale=0.99999,FontAdjustment={\fontdimen 8\font
+. =0.918pt\relax \fontdimen 9\font =1.8225pt\relax \fontdimen 10\font
+. =1.8225pt\relax \fontdimen 11\font =4.04999pt\relax \fontdimen 12\font
+. =9.045pt\relax \fontdimen 13\font =0pt\relax }].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.:
+. <11.474975->s*[0.99999]"[NagwaMath.otf]:mode=base;script=math;language=DFLT;+s
+s08;"<8.099975-11.474975>s*[0.99999]"[NagwaMath.otf]:mode=base;script=math;langu
+age=DFLT;+ss08;+ssty=0;"<-8.099975>s*[0.99999]"[NagwaMath.otf]:mode=base;script=
+math;language=DFLT;+ss08;+ssty=1;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+. and font adjustment code:
+. \__um_luatex_copy_fontdimens: \fontdimen 8\font =0.918pt\relax \fontdimen
+. 9\font =1.8225pt\relax \fontdimen 10\font =1.8225pt\relax \fontdimen 11\font
+. =4.04999pt\relax \fontdimen 12\font =9.045pt\relax \fontdimen 13\font
+. =0pt\relax 
+.................................................
+LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 41
+7.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> TU/NagwaMath.otf(3)/m/n on input line 4
+17.
+LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 417.
+
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> TU/NagwaMath.otf(3)/bx/n on input line 
+417.
+LaTeX Font Info:    Font shape `TU/NagwaMath.otf(2)/m/n' will be
+(Font)              scaled to size 13.5002pt on input line 417.
+LaTeX Font Info:    Font shape `TU/NagwaMath.otf(2)/m/n' will be
+(Font)              scaled to size 9.46681pt on input line 417.
+LaTeX Font Info:    Font shape `TU/NagwaMath.otf(2)/m/n' will be
+(Font)              scaled to size 7.43188pt on input line 417.
+LaTeX Font Info:    Font shape `TU/NagwaMath.otf(3)/m/n' will be
+(Font)              scaled to size 13.49979pt on input line 417.
+LaTeX Font Info:    Font shape `TU/NagwaMath.otf(3)/m/n' will be
+(Font)              scaled to size 9.46652pt on input line 417.
+LaTeX Font Info:    Font shape `TU/NagwaMath.otf(3)/m/n' will be
+(Font)              scaled to size 7.43166pt on input line 417.
+\mybox=\box95
+.................................................
+. LaTeX info: "xparse/define-environment"
+. 
+. Defining environment 'distractors' with sig. 'O{}D(){1}' on line 417.
+.................................................
+) (./.exam.tex) (./.explainer.tex) (./.nagwawebSVG.tex)
+(./.nagwawebSVG.flashcard.tex) (./.lessonplan.tex) (./nagwa.commands.tex
+\table=\box96
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/base/inputenc.sty
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks47
+\inpenc@posthook=\toks48
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+)(load luc: D:/Progs/TeX/mikTeX/texmfs/data/luatex-cache/generic/fonts/otl/noto-
+regular.luc)
+\g__fontspec_family_Noto-Regular.ttf_int=\count379
+luaotfload | aux : font no 47 (nil) does not define feature smcp for script arab
+ with language dflt
+luaotfload | aux : no font with id 47(load luc: D:/Progs/TeX/mikTeX/texmfs/data/
+luatex-cache/generic/fonts/otl/noto-bold.luc)
+luaotfload | aux : font no 48 (nil) does not define feature smcp for script arab
+ with language dflt
+luaotfload | aux : no font with id 48
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Noto-Regular.ttf(0)' created for font 'Noto-Regular.ttf' with
+. options [Script=Arabic,BoldFont={Noto-Bold.ttf}].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.:
+. <->"[Noto-Regular.ttf]:mode=node;script=arab;language=DFLT;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+. - 'bold' (bx/n) with NFSS spec.:
+. <->"[Noto-Bold.ttf]:mode=node;script=arab;language=DFLT;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: 
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'STIX2Text-Regular.otf(2)' created for font
+. 'STIX2Text-Regular.otf' with options [BoldFont =
+. STIX2Text-Bold.otf,ItalicFont = STIX2Text-Italic.otf,BoldItalicFont =
+. STIX2Text-BoldItalic.otf].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.:
+. <->"[STIX2Text-Regular.otf]:mode=node;script=latn;language=DFLT;"
+. - 'small caps'  (m/sc) with NFSS spec.:
+. <->"[STIX2Text-Regular.otf]:mode=node;script=latn;language=DFLT;+smcp;"
+. - 'bold' (bx/n) with NFSS spec.:
+. <->"[STIX2Text-Bold.otf]:mode=node;script=latn;language=DFLT;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.:
+. <->"[STIX2Text-Bold.otf]:mode=node;script=latn;language=DFLT;+smcp;"
+. - 'italic' (m/it) with NFSS spec.:
+. <->"[STIX2Text-Italic.otf]:mode=node;script=latn;language=DFLT;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.:
+. <->"[STIX2Text-Italic.otf]:mode=node;script=latn;language=DFLT;+smcp;"
+. - 'bold italic' (bx/it) with NFSS spec.:
+. <->"[STIX2Text-BoldItalic.otf]:mode=node;script=latn;language=DFLT;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+. <->"[STIX2Text-BoldItalic.otf]:mode=node;script=latn;language=DFLT;+smcp;"
+.................................................
+\myl=\skip80
+\mymax=\skip81
+\c@carryNYshift=\count380
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarymath.code.tex
+\tikz@math@for@depth=\count381
+\tikz@math@dimen=\dimen368
+\tikz@math@toks=\toks49
+)
+\tmpnum=\count382
+)
+Inserting `show_error_hook' at position 1 in `show_error_hook'.) (./RD.tex
+\symyhlargesymbols=\mathgroup4
+) (./Ray.tex) (./Angle.tex)
+(./Matrix.tex) (./Moment.tex) (./StLine.tex) (./Vector.tex) (./SeqTerm.tex)
+(./Interval.tex) (./Parallel.tex) (./SetMinus.tex) (./Triangle.tex)
+(./Factorial.tex) (./MathLabel.tex) (./UnitVector.tex) (./Combination.tex)
+(./LineSegment.tex) (./Permutation.tex) (./CrossProduct.tex)
+(./MeasureAngle.tex) (./SetComplement.tex) (./VectorMagnitude.tex)
+(./ComplexConjugate.tex) (./VectorComponents.tex)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/multirow/multirow.sty
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip82
+\multirow@cntb=\count383
+\multirow@dima=\skip83
+\bigstrutjot=\dimen369
+)
+(./EgExamsStylesEN-800-600.tex
+LaTeX Info: Redefining \rmfamily on input line 7.
+luaotfload | aux : font no 34 (nil) does not define feature smcp for script math
+ with language dflt
+luaotfload | aux : no font with id 34
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'NagwaMath.otf(4)' created for font 'NagwaMath.otf' with options
+. [Renderer=Basic,BoldItalicFont={},ItalicFont={},Script=Math,SizeFeatures={{Siz
+e=11.483335-},{Size=8.449225-11.483335,Font=NagwaMath.otf,Style=MathScript},{Siz
+e=-8.449225,Font=NagwaMath.otf,Style=MathScriptScript}},FontAdjustment={\__um_lu
+atex_copy_fontdimens:
+. },StylisticSet={8}].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.:
+. <11.483335->"[NagwaMath.otf]:mode=base;script=math;language=DFLT;+ss08;"<8.449
+225-11.483335>"[NagwaMath.otf]:mode=base;script=math;language=DFLT;+ss08;+ssty=0
+;"<-8.449225>"[NagwaMath.otf]:mode=base;script=math;language=DFLT;+ss08;+ssty=1;
+"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+. and font adjustment code:
+. \__um_luatex_copy_fontdimens: 
+.................................................
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/NagwaMath.otf(1)/m/n --> TU/NagwaMath.otf(4)/m/n on i
+nput line 9.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/NagwaMath.otf(1)/bx/n --> TU/NagwaMath.otf(4)/bx/n on
+ input line 9.
+luaotfload | aux : font no 34 (nil) does not define feature smcp for script math
+ with language dflt
+luaotfload | aux : no font with id 34
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'NagwaMath.otf(5)' created for font 'NagwaMath.otf' with options
+. [Renderer=Basic,BoldItalicFont={},ItalicFont={},Script=Math,SizeFeatures={{Siz
+e=11.483335-},{Size=8.449225-11.483335,Font=NagwaMath.otf,Style=MathScript},{Siz
+e=-8.449225,Font=NagwaMath.otf,Style=MathScriptScript}},FontAdjustment={\__um_lu
+atex_copy_fontdimens:
+. },StylisticSet={8},Scale=1.00001,FontAdjustment={\fontdimen 8\font
+. =8.64pt\relax \fontdimen 9\font =7.89749pt\relax \fontdimen 10\font
+. =6.34499pt\relax \fontdimen 11\font =8.64pt\relax \fontdimen 12\font
+. =7.89749pt\relax \fontdimen 13\font =4.85999pt\relax \fontdimen 14\font
+. =4.85999pt\relax \fontdimen 15\font =3.402pt\relax \fontdimen 16\font
+. =2.83499pt\relax \fontdimen 17\font =2.83499pt\relax \fontdimen 18\font
+. =3.105pt\relax \fontdimen 19\font =2.15999pt\relax \fontdimen 22\font
+. =3.48299pt\relax \fontdimen 20\font =0pt\relax \fontdimen 21\font =0pt\relax
+. }].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.:
+. <11.483335->s*[1.00001]"[NagwaMath.otf]:mode=base;script=math;language=DFLT;+s
+s08;"<8.449225-11.483335>s*[1.00001]"[NagwaMath.otf]:mode=base;script=math;langu
+age=DFLT;+ss08;+ssty=0;"<-8.449225>s*[1.00001]"[NagwaMath.otf]:mode=base;script=
+math;language=DFLT;+ss08;+ssty=1;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+. and font adjustment code:
+. \__um_luatex_copy_fontdimens: \fontdimen 8\font =8.64pt\relax \fontdimen
+. 9\font =7.89749pt\relax \fontdimen 10\font =6.34499pt\relax \fontdimen
+. 11\font =8.64pt\relax \fontdimen 12\font =7.89749pt\relax \fontdimen 13\font
+. =4.85999pt\relax \fontdimen 14\font =4.85999pt\relax \fontdimen 15\font
+. =3.402pt\relax \fontdimen 16\font =2.83499pt\relax \fontdimen 17\font
+. =2.83499pt\relax \fontdimen 18\font =3.105pt\relax \fontdimen 19\font
+. =2.15999pt\relax \fontdimen 22\font =3.48299pt\relax \fontdimen 20\font
+. =0pt\relax \fontdimen 21\font =0pt\relax 
+.................................................
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  TU/NagwaMath.otf(2)/m/n --> TU/NagwaMath.otf(5)/m/n on i
+nput line 9.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  TU/NagwaMath.otf(2)/bx/n --> TU/NagwaMath.otf(5)/bx/n on
+ input line 9.
+luaotfload | aux : font no 34 (nil) does not define feature smcp for script math
+ with language dflt
+luaotfload | aux : no font with id 34
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'NagwaMath.otf(6)' created for font 'NagwaMath.otf' with options
+. [Renderer=Basic,BoldItalicFont={},ItalicFont={},Script=Math,SizeFeatures={{Siz
+e=11.483335-},{Size=8.449225-11.483335,Font=NagwaMath.otf,Style=MathScript},{Siz
+e=-8.449225,Font=NagwaMath.otf,Style=MathScriptScript}},FontAdjustment={\__um_lu
+atex_copy_fontdimens:
+. },StylisticSet={8},Scale=0.99999,FontAdjustment={\fontdimen 8\font
+. =0.918pt\relax \fontdimen 9\font =1.8225pt\relax \fontdimen 10\font
+. =1.8225pt\relax \fontdimen 11\font =4.04999pt\relax \fontdimen 12\font
+. =9.045pt\relax \fontdimen 13\font =0pt\relax }].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.:
+. <11.483335->s*[0.99999]"[NagwaMath.otf]:mode=base;script=math;language=DFLT;+s
+s08;"<8.449225-11.483335>s*[0.99999]"[NagwaMath.otf]:mode=base;script=math;langu
+age=DFLT;+ss08;+ssty=0;"<-8.449225>s*[0.99999]"[NagwaMath.otf]:mode=base;script=
+math;language=DFLT;+ss08;+ssty=1;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+. and font adjustment code:
+. \__um_luatex_copy_fontdimens: \fontdimen 8\font =0.918pt\relax \fontdimen
+. 9\font =1.8225pt\relax \fontdimen 10\font =1.8225pt\relax \fontdimen 11\font
+. =4.04999pt\relax \fontdimen 12\font =9.045pt\relax \fontdimen 13\font
+. =0pt\relax 
+.................................................
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  TU/NagwaMath.otf(3)/m/n --> TU/NagwaMath.otf(6)/m/n on i
+nput line 9.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  TU/NagwaMath.otf(3)/bx/n --> TU/NagwaMath.otf(6)/bx/n on
+ input line 9.
+LaTeX Font Info:    Font shape `TU/NagwaMath.otf(5)/m/n' will be
+(Font)              scaled to size 13.5002pt on input line 9.
+LaTeX Font Info:    Font shape `TU/NagwaMath.otf(5)/m/n' will be
+(Font)              scaled to size 9.46681pt on input line 9.
+LaTeX Font Info:    Font shape `TU/NagwaMath.otf(5)/m/n' will be
+(Font)              scaled to size 7.43188pt on input line 9.
+LaTeX Font Info:    Font shape `TU/NagwaMath.otf(6)/m/n' will be
+(Font)              scaled to size 13.49979pt on input line 9.
+LaTeX Font Info:    Font shape `TU/NagwaMath.otf(6)/m/n' will be
+(Font)              scaled to size 9.46652pt on input line 9.
+LaTeX Font Info:    Font shape `TU/NagwaMath.otf(6)/m/n' will be
+(Font)              scaled to size 7.43166pt on input line 9.
+LaTeX Font Info:    Try loading font information for OMX+yhex on input line 9.
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/yhmath/omxyhex.fd
+File: OMXyhex.fd 
+File: OMXyhex.fd 2013/07/03 v1.1 YH's humble contribution to TeX maths (NP)
+)
+LaTeX Font Info:    External font `yhcmex10' loaded for size
+(Font)              <13.5> on input line 9.
+LaTeX Font Info:    External font `yhcmex10' loaded for size
+(Font)              <9.46667> on input line 9.
+LaTeX Font Info:    External font `yhcmex10' loaded for size
+(Font)              <7.43178> on input line 9.
+\c@examquestion=\count384
+\c@distractor=\count385
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/sectsty/sectsty.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading styl
+es
+
+
+LaTeX Warning: Command \underbar  has changed.
+               Check if current package is valid.
+
+) (D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip84
+\f@nch@O@elh=\skip85
+\f@nch@O@erh=\skip86
+\f@nch@O@olh=\skip87
+\f@nch@O@orh=\skip88
+\f@nch@O@elf=\skip89
+\f@nch@O@erf=\skip90
+\f@nch@O@olf=\skip91
+\f@nch@O@orf=\skip92
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+))
+(./enSlides.tex
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/tcolorbox/tcolorbox.sty
+Package: tcolorbox 2018/03/22 version 4.13 text color boxes
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks50
+\verbatim@line=\toks51
+\verbatim@in@stream=\read4
+)
+\tcb@titlebox=\box97
+\tcb@upperbox=\box98
+\tcb@lowerbox=\box99
+\tcb@phantombox=\box100
+\c@tcbbreakpart=\count386
+\c@tcblayer=\count387
+\tcolorbox@number=\count388
+\tcb@temp=\box101
+\tcb@temp=\box102
+\tcb@temp=\box103
+\tcb@temp=\box104
+\tcb@out=\write5
+\tcb@record@out=\write6
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/tcolorbox/tcbfitting.code.tex
+Library (tcolorbox): 'tcbfitting.code.tex' version '4.13'
+\tcbfitdim=\dimen370
+\tcb@lowerfitdim=\dimen371
+\tcb@upperfitdim=\dimen372
+\tcb@cur@hbadness=\count389
+) (D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/tcolorbox/tcbskins.code.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '4.13'
+\tcb@waterbox=\box105
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '4.13'
+))) (D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/fancybox/fancybox.sty
+Package: fancybox 2010/05/15 1.4
+
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+\@fancybox=\box106
+\shadowsize=\dimen373
+\@Sbox=\box107
+\do@VerbBox=\toks52
+\the@fancyput=\toks53
+\this@fancyput=\toks54
+\EndVerbatimTokens=\toks55
+\Verbatim@Outfile=\write7
+\Verbatim@Infile=\read5
+) (D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/tools/tabularx.sty
+Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
+\TX@col@width=\dimen374
+\TX@old@table=\dimen375
+\TX@old@col=\dimen376
+\TX@target=\dimen377
+\TX@delta=\dimen378
+\TX@cols=\count390
+\TX@ftn=\toks56
+)
+\enitdp@slideToC=\count391
+)
+(./enTutorPages.tex
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'STIX2Text-Regular.otf(3)' created for font
+. 'STIX2Text-Regular.otf' with options [Ligatures=TeX,BoldFont =
+. STIX2Text-Bold.otf,ItalicFont =
+. STIX2Text-Italic.otf,SlantedFont=Noto-Regular.ttf,SmallCapsFont=Noto-Bold.ttf,
+BoldItalicFont
+. = STIX2Text-BoldItalic.otf].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.:
+. <->"[STIX2Text-Regular.otf]:mode=node;script=latn;language=DFLT;+tlig;"
+. - 'small caps'  (m/sc) with NFSS spec.:
+. <->"[Noto-Bold.ttf]:mode=node;script=latn;language=DFLT;+tlig;"
+. - 'bold' (bx/n) with NFSS spec.:
+. <->"[STIX2Text-Bold.otf]:mode=node;script=latn;language=DFLT;+tlig;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.:
+. <->"[Noto-Bold.ttf]:mode=node;script=latn;language=DFLT;+tlig;"
+. - 'italic' (m/it) with NFSS spec.:
+. <->"[STIX2Text-Italic.otf]:mode=node;script=latn;language=DFLT;+tlig;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.:
+. <->"[Noto-Bold.ttf]:mode=node;script=latn;language=DFLT;+tlig;"
+. - 'slanted' (m/sl) with NFSS spec.:
+. <->"[Noto-Regular.ttf]:mode=node;script=latn;language=DFLT;+tlig;"
+. - 'slanted small caps'  (m/slsc) with NFSS spec.:
+. <->"[Noto-Bold.ttf]:mode=node;script=latn;language=DFLT;+tlig;"
+. - 'bold italic' (bx/it) with NFSS spec.:
+. <->"[STIX2Text-BoldItalic.otf]:mode=node;script=latn;language=DFLT;+tlig;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+. <->"[Noto-Bold.ttf]:mode=node;script=latn;language=DFLT;+tlig;"
+.................................................
+LaTeX Info: Redefining \rmfamily on input line 6.
+(load luc: D:/Progs/TeX/mikTeX/texmfs/data/luatex-cache/generic/fonts/otl/notosa
+ns-regular.luc)
+\g__fontspec_family_NotoSans-Regular.ttf_int=\count392
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'NotoSans-Regular.ttf(0)' created for font
+. 'NotoSans-Regular.ttf' with options [Ligatures=TeX].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.:
+. <->"[NotoSans-Regular.ttf]:mode=node;script=latn;language=DFLT;+tlig;"
+. - 'small caps'  (m/sc) with NFSS spec.:
+. <->"[NotoSans-Regular.ttf]:mode=node;script=latn;language=DFLT;+tlig;+smcp;"
+.................................................
+LaTeX Info: Redefining \sffamily on input line 8.
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'NotoSans-Regular.ttf(1)' created for font
+. 'NotoSans-Regular.ttf' with options [Renderer=Basic].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.:
+. <->"[NotoSans-Regular.ttf]:mode=base;script=latn;language=DFLT;"
+. - 'small caps'  (m/sc) with NFSS spec.:
+. <->"[NotoSans-Regular.ttf]:mode=base;script=latn;language=DFLT;+smcp;"
+.................................................
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/NotoSans-Regular.ttf(1)/m/n on input
+ line 8.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/NotoSans-Regular.ttf(1)/bx/n on inp
+ut line 8.
+LaTeX Font Info:    Calculating math sizes for size <20> on input line 9.
+luaotfload | aux : font no 60 (nil) does not define feature smcp for script math
+ with language dflt
+luaotfload | aux : no font with id 60
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'NagwaMath.otf(7)' created for font 'NagwaMath.otf' with options
+. [Renderer=Basic,BoldItalicFont={},ItalicFont={},Script=Math,SizeFeatures={{Siz
+e=16.99997-},{Size=11.99997-16.99997,Font=NagwaMath.otf,Style=MathScript},{Size=
+-11.99997,Font=NagwaMath.otf,Style=MathScriptScript}},FontAdjustment={\__um_luat
+ex_copy_fontdimens:
+. },StylisticSet={8}].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.:
+. <16.99997->"[NagwaMath.otf]:mode=base;script=math;language=DFLT;+ss08;"<11.999
+97-16.99997>"[NagwaMath.otf]:mode=base;script=math;language=DFLT;+ss08;+ssty=0;"
+<-11.99997>"[NagwaMath.otf]:mode=base;script=math;language=DFLT;+ss08;+ssty=1;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+. and font adjustment code:
+. \__um_luatex_copy_fontdimens: 
+.................................................
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/NagwaMath.otf(4)/m/n --> TU/NagwaMath.otf(7)/m/n on i
+nput line 9.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/NagwaMath.otf(4)/bx/n --> TU/NagwaMath.otf(7)/bx/n on
+ input line 9.
+luaotfload | aux : font no 60 (nil) does not define feature smcp for script math
+ with language dflt
+luaotfload | aux : no font with id 60
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'NagwaMath.otf(8)' created for font 'NagwaMath.otf' with options
+. [Renderer=Basic,BoldItalicFont={},ItalicFont={},Script=Math,SizeFeatures={{Siz
+e=16.99997-},{Size=11.99997-16.99997,Font=NagwaMath.otf,Style=MathScript},{Size=
+-11.99997,Font=NagwaMath.otf,Style=MathScriptScript}},FontAdjustment={\__um_luat
+ex_copy_fontdimens:
+. },StylisticSet={8},Scale=1.00001,FontAdjustment={\fontdimen 8\font
+. =12.79999pt\relax \fontdimen 9\font =11.7pt\relax \fontdimen 10\font
+. =9.4pt\relax \fontdimen 11\font =12.79999pt\relax \fontdimen 12\font
+. =11.7pt\relax \fontdimen 13\font =7.2pt\relax \fontdimen 14\font
+. =7.2pt\relax \fontdimen 15\font =5.04pt\relax \fontdimen 16\font
+. =4.2pt\relax \fontdimen 17\font =4.2pt\relax \fontdimen 18\font
+. =4.59999pt\relax \fontdimen 19\font =3.2pt\relax \fontdimen 22\font
+. =5.15999pt\relax \fontdimen 20\font =0pt\relax \fontdimen 21\font =0pt\relax
+. }].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.:
+. <16.99997->s*[1.00001]"[NagwaMath.otf]:mode=base;script=math;language=DFLT;+ss
+08;"<11.99997-16.99997>s*[1.00001]"[NagwaMath.otf]:mode=base;script=math;languag
+e=DFLT;+ss08;+ssty=0;"<-11.99997>s*[1.00001]"[NagwaMath.otf]:mode=base;script=ma
+th;language=DFLT;+ss08;+ssty=1;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+. and font adjustment code:
+. \__um_luatex_copy_fontdimens: \fontdimen 8\font =12.79999pt\relax \fontdimen
+. 9\font =11.7pt\relax \fontdimen 10\font =9.4pt\relax \fontdimen 11\font
+. =12.79999pt\relax \fontdimen 12\font =11.7pt\relax \fontdimen 13\font
+. =7.2pt\relax \fontdimen 14\font =7.2pt\relax \fontdimen 15\font
+. =5.04pt\relax \fontdimen 16\font =4.2pt\relax \fontdimen 17\font
+. =4.2pt\relax \fontdimen 18\font =4.59999pt\relax \fontdimen 19\font
+. =3.2pt\relax \fontdimen 22\font =5.15999pt\relax \fontdimen 20\font
+. =0pt\relax \fontdimen 21\font =0pt\relax 
+.................................................
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  TU/NagwaMath.otf(5)/m/n --> TU/NagwaMath.otf(8)/m/n on i
+nput line 9.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  TU/NagwaMath.otf(5)/bx/n --> TU/NagwaMath.otf(8)/bx/n on
+ input line 9.
+luaotfload | aux : font no 60 (nil) does not define feature smcp for script math
+ with language dflt
+luaotfload | aux : no font with id 60
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'NagwaMath.otf(9)' created for font 'NagwaMath.otf' with options
+. [Renderer=Basic,BoldItalicFont={},ItalicFont={},Script=Math,SizeFeatures={{Siz
+e=16.99997-},{Size=11.99997-16.99997,Font=NagwaMath.otf,Style=MathScript},{Size=
+-11.99997,Font=NagwaMath.otf,Style=MathScriptScript}},FontAdjustment={\__um_luat
+ex_copy_fontdimens:
+. },StylisticSet={8},Scale=0.99999,FontAdjustment={\fontdimen 8\font
+. =1.35999pt\relax \fontdimen 9\font =2.7pt\relax \fontdimen 10\font
+. =2.7pt\relax \fontdimen 11\font =6.0pt\relax \fontdimen 12\font
+. =13.4pt\relax \fontdimen 13\font =0pt\relax }].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.:
+. <16.99997->s*[0.99999]"[NagwaMath.otf]:mode=base;script=math;language=DFLT;+ss
+08;"<11.99997-16.99997>s*[0.99999]"[NagwaMath.otf]:mode=base;script=math;languag
+e=DFLT;+ss08;+ssty=0;"<-11.99997>s*[0.99999]"[NagwaMath.otf]:mode=base;script=ma
+th;language=DFLT;+ss08;+ssty=1;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+. and font adjustment code:
+. \__um_luatex_copy_fontdimens: \fontdimen 8\font =1.35999pt\relax \fontdimen
+. 9\font =2.7pt\relax \fontdimen 10\font =2.7pt\relax \fontdimen 11\font
+. =6.0pt\relax \fontdimen 12\font =13.4pt\relax \fontdimen 13\font =0pt\relax 
+.................................................
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  TU/NagwaMath.otf(6)/m/n --> TU/NagwaMath.otf(9)/m/n on i
+nput line 9.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  TU/NagwaMath.otf(6)/bx/n --> TU/NagwaMath.otf(9)/bx/n on
+ input line 9.
+LaTeX Font Info:    Font shape `TU/NagwaMath.otf(8)/m/n' will be
+(Font)              scaled to size 20.0003pt on input line 9.
+LaTeX Font Info:    Font shape `TU/NagwaMath.otf(8)/m/n' will be
+(Font)              scaled to size 14.02492pt on input line 9.
+LaTeX Font Info:    Font shape `TU/NagwaMath.otf(8)/m/n' will be
+(Font)              scaled to size 11.01022pt on input line 9.
+LaTeX Font Info:    Font shape `TU/NagwaMath.otf(9)/m/n' will be
+(Font)              scaled to size 19.9997pt on input line 9.
+LaTeX Font Info:    Font shape `TU/NagwaMath.otf(9)/m/n' will be
+(Font)              scaled to size 14.02448pt on input line 9.
+LaTeX Font Info:    Font shape `TU/NagwaMath.otf(9)/m/n' will be
+(Font)              scaled to size 11.00987pt on input line 9.
+LaTeX Font Info:    External font `yhcmex10' loaded for size
+(Font)              <20> on input line 9.
+LaTeX Font Info:    External font `yhcmex10' loaded for size
+(Font)              <14.0247> on input line 9.
+LaTeX Font Info:    External font `yhcmex10' loaded for size
+(Font)              <11.01006> on input line 9.
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/ms/ragged2e.sty
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip93
+\RaggedLeftLeftskip=\skip94
+\RaggedRightLeftskip=\skip95
+\CenteringRightskip=\skip96
+\RaggedLeftRightskip=\skip97
+\RaggedRightRightskip=\skip98
+\CenteringParfillskip=\skip99
+\RaggedLeftParfillskip=\skip100
+\RaggedRightParfillskip=\skip101
+\JustifyingParfillskip=\skip102
+\CenteringParindent=\skip103
+\RaggedLeftParindent=\skip104
+\RaggedRightParindent=\skip105
+\JustifyingParindent=\skip106
+))
+(./EG_Spanish_G12_T0_S08.aux)
+\openout1 = EG_Spanish_G12_T0_S08.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+\AtBeginShipoutBox=\box108
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count393
+\scratchdimen=\dimen379
+\scratchbox=\box109
+\nofMPsegments=\count394
+\nofMParguments=\count395
+\everyMPshowfont=\toks57
+\MPscratchCnt=\count396
+\MPscratchDim=\dimen380
+\MPnumerator=\count397
+\makeMPintoPDFobject=\count398
+\everyMPtoPDFconversion=\toks58
+) (D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 43
+8.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG
+,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+ABD: EveryShipout initializing macros
+*geometry* driver: auto-detecting
+*geometry* detected driver: luatex
+*geometry* verbose mode - [ preamble ] result:
+* driver: luatex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(0.0pt, 803.0pt, 0.0pt)
+* v-part:(T,H,B)=(0.0pt, 602.25pt, 0.0pt)
+* \paperwidth=803.0pt
+* \paperheight=602.25pt
+* \textwidth=803.0pt
+* \textheight=602.25pt
+* \oddsidemargin=-72.25pt
+* \evensidemargin=-72.25pt
+* \topmargin=-30.26999pt
+* \headheight=0.0pt
+* \headsep=-46.67436pt
+* \topskip=10.0pt
+* \footskip=0.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring OFF on input line 38.
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(D:/Progs/TeX/mikTeX/texmfs/install/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count399
+)
+LaTeX Info: Redefining \ref on input line 38.
+LaTeX Info: Redefining \pageref on input line 38.
+LaTeX Info: Redefining \nameref on input line 38.
+
+(./EG_Spanish_G12_T0_S08.out) (./EG_Spanish_G12_T0_S08.out)
+\@outlinefile=\write8
+
+\openout8 = EG_Spanish_G12_T0_S08.out
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 38.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 38.
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 38.
+
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 38.
+\mybox=\box110
+ (./NonQuestions/Slide_1.tex)
+\mybox=\box111
+
+(./NonQuestions/Slide_2.tex
+<NonQuestions/Figure_Slide_2.jpg, id=6, 452.1693pt x 272.217pt>
+File: NonQuestions/Figure_Slide_2.jpg Graphic file (type jpg)
+<use NonQuestions/Figure_Slide_2.jpg>
+Package luatex.def Info: NonQuestions/Figure_Slide_2.jpg  used on input line 3.
+(luatex.def)             Requested size: 744.71957pt x 448.3785pt.
+)
+\mybox=\box112
+ (./NonQuestions/Slide_3.tex
+<NonQuestions/Figure_Slide_3-01.jpg, id=7, 504.9264pt x 112.5003pt>
+File: NonQuestions/Figure_Slide_3-01.jpg Graphic file (type jpg)
+<use NonQuestions/Figure_Slide_3-01.jpg>
+Package luatex.def Info: NonQuestions/Figure_Slide_3-01.jpg  used on input line 
+3.
+(luatex.def)             Requested size: 744.71957pt x 165.94334pt.
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[1
+
+{D:/Progs/TeX/mikTeX/texmfs/data/pdftex/config/pdftex.map}]
+\mybox=\box113
+
+(./NonQuestions/Slide_4.tex
+<NonQuestions/Figure_Slide_4.jpg, id=15, 556.2381pt x 140.2038pt>
+File: NonQuestions/Figure_Slide_4.jpg Graphic file (type jpg)
+<use NonQuestions/Figure_Slide_4.jpg>
+Package luatex.def Info: NonQuestions/Figure_Slide_4.jpg  used on input line 3.
+(luatex.def)             Requested size: 744.71957pt x 187.72662pt.
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2<./NonQuestions/Figure_Slide_2.jpg>]
+\mybox=\box114
+
+Overfull \hbox (0.84525pt too wide) in paragraph at lines 43--43
+[]\TU/STIX2Text-Regular.otf(3)/m/n/24 Pre-gunta[] 
+ []
+
+(./NonQuestions/Slide_5.tex)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[3<./NonQuestions/Figure_Slide_3-01.jpg>]
+\mybox=\box115
+
+Overfull \hbox (0.84525pt too wide) in paragraph at lines 44--44
+[]\TU/STIX2Text-Regular.otf(3)/m/n/24 Pre-gunta[] 
+ []
+
+(./Questions/542141518583.tex
+<Questions/834178762173.jpg, id=24, 1003.75pt x 668.4975pt>
+File: Questions/834178762173.jpg Graphic file (type jpg)
+<use Questions/834178762173.jpg>
+Package luatex.def Info: Questions/834178762173.jpg  used on input line 11.
+(luatex.def)             Requested size: 301.12732pt x 200.5508pt.
+<Questions/695139170359.jpg, id=25, 1003.75pt x 668.4975pt>
+File: Questions/695139170359.jpg Graphic file (type jpg)
+<use Questions/695139170359.jpg>
+Package luatex.def Info: Questions/695139170359.jpg  used on input line 12.
+(luatex.def)             Requested size: 301.12732pt x 200.5508pt.
+<Questions/954139763089.jpg, id=26, 1003.75pt x 669.50125pt>
+File: Questions/954139763089.jpg Graphic file (type jpg)
+<use Questions/954139763089.jpg>
+Package luatex.def Info: Questions/954139763089.jpg  used on input line 13.
+(luatex.def)             Requested size: 301.12732pt x 200.85191pt.
+
+Overfull \hbox (376.11891pt too wide) in paragraph at lines 17--19
+[][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--19
+
+ []
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[4<./NonQuestions/Figure_Slide_4.jpg>]
+\mybox=\box116
+ (./NonQuestions/Slide_7.tex)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[5]
+\mybox=\box117
+ (./NonQuestions/Slide_8.tex)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[6<./Questions/834178762173.jpg><./Questions/695139170359.jpg><./Questions/95413
+9763089.jpg>]
+\mybox=\box118
+ (./NonQuestions/Slide_9.tex)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[7]
+\mybox=\box119
+
+Overfull \hbox (0.84525pt too wide) in paragraph at lines 48--48
+[]\TU/STIX2Text-Regular.otf(3)/m/n/24 Pre-gunta[] 
+ []
+
+(./Questions/504193106512.tex
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 19--24
+[][] []
+ []
+
+
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 19--24
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--24
+
+ []
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[8]
+\mybox=\box120
+
+Overfull \hbox (0.84525pt too wide) in paragraph at lines 49--49
+[]\TU/STIX2Text-Regular.otf(3)/m/n/24 Pre-gunta[] 
+ []
+
+(./Questions/462147242454.tex
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 17--22
+[][] []
+ []
+
+
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 17--22
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--22
+
+ []
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[9]
+\mybox=\box121
+
+Overfull \hbox (0.84525pt too wide) in paragraph at lines 50--50
+[]\TU/STIX2Text-Regular.otf(3)/m/n/24 Pre-gunta[] 
+ []
+
+(./Questions/345198523827.tex
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 18--23
+[][] []
+ []
+
+
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 18--23
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--23
+
+ []
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[10]
+\mybox=\box122
+
+Overfull \hbox (0.84525pt too wide) in paragraph at lines 51--51
+[]\TU/STIX2Text-Regular.otf(3)/m/n/24 Pre-gunta[] 
+ []
+
+(./Questions/847123917296.tex
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 17--22
+[][] []
+ []
+
+
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 17--22
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--22
+
+ []
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[11]
+\mybox=\box123
+
+Overfull \hbox (0.84525pt too wide) in paragraph at lines 52--52
+[]\TU/STIX2Text-Regular.otf(3)/m/n/24 Pre-gunta[] 
+ []
+
+(./Questions/213185482315.tex
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 17--22
+[][] []
+ []
+
+
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 17--22
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--22
+
+ []
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[12]
+\mybox=\box124
+
+Overfull \hbox (0.84525pt too wide) in paragraph at lines 53--53
+[]\TU/STIX2Text-Regular.otf(3)/m/n/24 Pre-gunta[] 
+ []
+
+(./Questions/749140256562.tex
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 18--23
+[][] []
+ []
+
+
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 18--23
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--23
+
+ []
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[13]
+\mybox=\box125
+
+Overfull \hbox (0.84525pt too wide) in paragraph at lines 54--54
+[]\TU/STIX2Text-Regular.otf(3)/m/n/24 Pre-gunta[] 
+ []
+
+(./Questions/978138196768.tex
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 17--22
+[][] []
+ []
+
+
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 17--22
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--22
+
+ []
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[14]
+\mybox=\box126
+
+Overfull \hbox (0.84525pt too wide) in paragraph at lines 55--55
+[]\TU/STIX2Text-Regular.otf(3)/m/n/24 Pre-gunta[] 
+ []
+
+(./Questions/937136051915.tex
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 17--22
+[][] []
+ []
+
+
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 17--22
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--22
+
+ []
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[15]
+\mybox=\box127
+
+Overfull \hbox (0.84525pt too wide) in paragraph at lines 56--56
+[]\TU/STIX2Text-Regular.otf(3)/m/n/24 Pre-gunta[] 
+ []
+
+(./Questions/638175439707.tex
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 18--23
+[][] []
+ []
+
+
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 18--23
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--23
+
+ []
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[16]
+\mybox=\box128
+
+Overfull \hbox (0.84525pt too wide) in paragraph at lines 57--57
+[]\TU/STIX2Text-Regular.otf(3)/m/n/24 Pre-gunta[] 
+ []
+
+(./Questions/572157823429.tex
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 18--23
+[][] []
+ []
+
+
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 18--23
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--23
+
+ []
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[17]
+\mybox=\box129
+
+Overfull \hbox (0.84525pt too wide) in paragraph at lines 58--58
+[]\TU/STIX2Text-Regular.otf(3)/m/n/24 Pre-gunta[] 
+ []
+
+(./Questions/429105964238.tex
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 18--23
+[][] []
+ []
+
+
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 18--23
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--23
+
+ []
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[18]
+\mybox=\box130
+
+Overfull \hbox (0.84525pt too wide) in paragraph at lines 59--59
+[]\TU/STIX2Text-Regular.otf(3)/m/n/24 Pre-gunta[] 
+ []
+
+(./Questions/508167497897.tex
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 19--24
+[][] []
+ []
+
+
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 19--24
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--24
+
+ []
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[19]
+\mybox=\box131
+ (./NonQuestions/Slide_22.tex
+<NonQuestions/Figure_Slide_22.jpg, id=95, 206.27063pt x 285.31593pt>
+File: NonQuestions/Figure_Slide_22.jpg Graphic file (type jpg)
+<use NonQuestions/Figure_Slide_22.jpg>
+Package luatex.def Info: NonQuestions/Figure_Slide_22.jpg  used on input line 15
+.
+(luatex.def)             Requested size: 150.44527pt x 208.1004pt.
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[20]
+\mybox=\box132
+ (./NonQuestions/Slide_23.tex
+File: NonQuestions/Figure_Slide_22.jpg Graphic file (type jpg)
+<use NonQuestions/Figure_Slide_22.jpg>
+Package luatex.def Info: NonQuestions/Figure_Slide_22.jpg  used on input line 15
+.
+(luatex.def)             Requested size: 150.44527pt x 208.1004pt.
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[21]
+\mybox=\box133
+
+Overfull \hbox (0.84525pt too wide) in paragraph at lines 62--62
+[]\TU/STIX2Text-Regular.otf(3)/m/n/24 Pre-gunta[] 
+ []
+
+(./Questions/793193916750.tex
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 18--23
+[][] []
+ []
+
+
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 18--23
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--23
+
+ []
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[22<./NonQuestions/Figure_Slide_22.jpg>]
+\mybox=\box134
+
+Overfull \hbox (0.84525pt too wide) in paragraph at lines 63--63
+[]\TU/STIX2Text-Regular.otf(3)/m/n/24 Pre-gunta[] 
+ []
+
+(./Questions/675124150739.tex
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 18--23
+[][] []
+ []
+
+
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 18--23
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--23
+
+ []
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[23]
+\mybox=\box135
+
+Overfull \hbox (0.84525pt too wide) in paragraph at lines 64--64
+[]\TU/STIX2Text-Regular.otf(3)/m/n/24 Pre-gunta[] 
+ []
+
+(./Questions/287149780507.tex
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 18--23
+[][] []
+ []
+
+
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 18--23
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--23
+
+ []
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[24]
+\mybox=\box136
+
+Overfull \hbox (0.84525pt too wide) in paragraph at lines 65--65
+[]\TU/STIX2Text-Regular.otf(3)/m/n/24 Pre-gunta[] 
+ []
+
+(./Questions/760198206769.tex
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 18--23
+[][] []
+ []
+
+
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 18--23
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--23
+
+ []
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[25]
+\mybox=\box137
+
+Overfull \hbox (0.84525pt too wide) in paragraph at lines 66--66
+[]\TU/STIX2Text-Regular.otf(3)/m/n/24 Pre-gunta[] 
+ []
+
+(./Questions/358125250315.tex
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 18--23
+[][] []
+ []
+
+
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 18--23
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--23
+
+ []
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[26]
+\mybox=\box138
+
+Overfull \hbox (0.84525pt too wide) in paragraph at lines 67--67
+[]\TU/STIX2Text-Regular.otf(3)/m/n/24 Pre-gunta[] 
+ []
+
+(./Questions/158197312398.tex
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 18--23
+[][] []
+ []
+
+
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 18--23
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--23
+
+ []
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[27]
+\mybox=\box139
+
+Overfull \hbox (0.84525pt too wide) in paragraph at lines 68--68
+[]\TU/STIX2Text-Regular.otf(3)/m/n/24 Pre-gunta[] 
+ []
+
+(./Questions/290186132361.tex
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 18--23
+[][] []
+ []
+
+
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 18--23
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--23
+
+ []
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[28]
+\mybox=\box140
+
+Overfull \hbox (0.84525pt too wide) in paragraph at lines 69--69
+[]\TU/STIX2Text-Regular.otf(3)/m/n/24 Pre-gunta[] 
+ []
+
+(./Questions/425137379694.tex
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 17--22
+[][] []
+ []
+
+
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 17--22
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--22
+
+ []
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[29]
+\mybox=\box141
+ (./NonQuestions/Slide_25.tex
+<308167846093.jpg, id=137, 240.9pt x 336.0555pt>
+File: 308167846093.jpg Graphic file (type jpg)
+<use 308167846093.jpg>
+Package luatex.def Info: 308167846093.jpg  used on input line 18.
+(luatex.def)             Requested size: 338.50471pt x 472.25896pt.
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[30]
+\mybox=\box142
+
+Overfull \hbox (0.84525pt too wide) in paragraph at lines 71--71
+[]\TU/STIX2Text-Regular.otf(3)/m/n/24 Pre-gunta[] 
+ []
+
+(./Questions/682190724815.1.tex
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 21--28
+[][] []
+ []
+
+
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 21--28
+[] []
+ []
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[31]
+\mybox=\box143
+
+Overfull \hbox (0.84525pt too wide) in paragraph at lines 72--72
+[]\TU/STIX2Text-Regular.otf(3)/m/n/24 Pre-gunta[] 
+ []
+
+(./Questions/682190724815.2.tex
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 22--29
+[][] []
+ []
+
+
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 22--29
+[] []
+ []
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[32<./308167846093.jpg>]
+\mybox=\box144
+
+Overfull \hbox (0.84525pt too wide) in paragraph at lines 73--73
+[]\TU/STIX2Text-Regular.otf(3)/m/n/24 Pre-gunta[] 
+ []
+
+(./Questions/682190724815.3.tex
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 22--29
+[][] []
+ []
+
+
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 22--29
+[] []
+ []
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[33]
+\mybox=\box145
+
+Overfull \hbox (0.84525pt too wide) in paragraph at lines 74--74
+[]\TU/STIX2Text-Regular.otf(3)/m/n/24 Pre-gunta[] 
+ []
+
+(./Questions/682190724815.4.tex
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 22--29
+[][] []
+ []
+
+
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 22--29
+[] []
+ []
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[34]
+\mybox=\box146
+
+Overfull \hbox (0.84525pt too wide) in paragraph at lines 75--75
+[]\TU/STIX2Text-Regular.otf(3)/m/n/24 Pre-gunta[] 
+ []
+
+(./Questions/682190724815.5.tex
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 22--29
+[][] []
+ []
+
+
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 22--29
+[] []
+ []
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[35]
+\mybox=\box147
+
+Overfull \hbox (0.84525pt too wide) in paragraph at lines 76--76
+[]\TU/STIX2Text-Regular.otf(3)/m/n/24 Pre-gunta[] 
+ []
+
+(./Questions/682190724815.6.tex
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 22--29
+[][] []
+ []
+
+
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 22--29
+[] []
+ []
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[36]
+\mybox=\box148
+
+Overfull \hbox (0.84525pt too wide) in paragraph at lines 77--77
+[]\TU/STIX2Text-Regular.otf(3)/m/n/24 Pre-gunta[] 
+ []
+
+(./Questions/682190724815.7.tex
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 23--30
+[][] []
+ []
+
+
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 23--30
+[] []
+ []
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[37]
+\mybox=\box149
+
+Overfull \hbox (0.84525pt too wide) in paragraph at lines 78--78
+[]\TU/STIX2Text-Regular.otf(3)/m/n/24 Pre-gunta[] 
+ []
+
+(./Questions/607181730816.tex
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 14--19
+[][] []
+ []
+
+
+Overfull \hbox (3.13333pt too wide) in paragraph at lines 14--19
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--19
+
+ []
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[38]
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[39]
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[40]
+\GPT@outputbox=\box150
+
+
+LaTeX Font Warning: Font shape `TU/Noto-Regular.ttf(0)/m/sl' undefined
+(Font)              using `TU/Noto-Regular.ttf(0)/m/n' instead on input line 79.
+
+
+
+AED: lastpage setting LastPage
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 30.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[41]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 80.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 80.
+ (./EG_Spanish_G12_T0_S08.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 80.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 80.
+Package rerunfilecheck Info: File `EG_Spanish_G12_T0_S08.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+)
+
+Here is how much of LuaTeX's memory you used:
+ 49759 strings out of 494413
+ 100000,1648299 words of node,token memory allocated
+ 609 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 2 glue, 1 kern, 7 attribute, 78 glue_spec, 7 attrib
+ute_list, 2 shape, 2 write nodes
+   avail lists: 1:1,2:3201,3:1132,4:69,5:464,6:71,7:4580,8:201,9:551,10:19,11:26
+6
+ 50847 multiletter control sequences out of 65536+200000
+ 86 fonts using 27100215 bytes
+ 73i,14n,94p,1042b,1239s stack positions out of 5000i,500n,10000p,200000b,50000s
+<./STIX2Text-BoldItalic.otf><./STIX2Text-Bold.otf><./Noto-Regular.ttf><./STIX2Te
+xt-Italic.otf><./STIX2Text-Regular.otf>
+Output written on EG_Spanish_G12_T0_S08.pdf (41 pages, 6614036 bytes).
+
+PDF statistics: 224 PDF objects out of 1000 (max. 8388607)
+ 42 named destinations out of 1000 (max. 131072)
+ 16 words of extra memory for PDF output out of 10000 (max. 100000000)
+
