@@ -254,9 +254,10 @@ else:
 
 processed_df=pd.read_csv(r"TestingSource\processed_sessions_educational_resources_report.csv", encoding="utf-8")
 
-resume = True
+
 
 for session_folder in os.listdir("TestingOutput"):
+    resume = True
     print(session_folder)
     session_path = os.path.join("TestingOutput", session_folder)
     if os.path.isdir(session_path):
